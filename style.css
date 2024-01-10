@@ -1,0 +1,32 @@
+
+body { 
+    font-family: Arial, sans-serif; 
+    box-sizing: border-box;
+}
+
+.header-section { padding: 40px 0; background: #f8f9fa; }
+.services-section, .results-section, .testimonials-section, .case-studies-section, .contact-section { padding: 40px 0; }
+.footer { background: #343a40; color: white; padding: 20px 0; }
+.navbar-brand { font-weight: bold; color: #007bff; }
+
+.box{
+    background-color: #d9ebfd83;
+    border-radius: 8px;
+    margin: 0.5rem 0.2rem;
+    box-sizing: border-box;
+}
+
+.baner{
+    height: 100px;
+    text-align: center;
+}
+
+img{
+    height:100px;
+    z-index: -1;
+}
+
+
+@media (min-width: 768px) {
+    
+}
