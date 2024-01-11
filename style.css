@@ -10,15 +10,18 @@ body {
 .navbar-brand { font-weight: bold; color: #007bff; }
 
 .box{
-    background-color: #d9ebfd83;
+    background-color: #f8f9fa;
     border-radius: 8px;
     margin: 0.5rem 0.2rem;
+    padding: 0.5rem;
     box-sizing: border-box;
 }
 
 .baner{
-    height: 100px;
+    height: 13rem;
     text-align: center;
+    position: relative;
+    z-index: 0;
 }
 
 img{
